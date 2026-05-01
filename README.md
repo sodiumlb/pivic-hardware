@@ -6,6 +6,8 @@ Hardware design files for the PIVIC MOS VIC-I 6560/6561 replacement project
 [Firmware](https://github.com/sodiumlb/ocula-pivic-firmware)
 
 ## Important notes
+**JLC production batches on Rev 1.2 are showing significant failure rates related to poor soldering of DFN-6 packages U5,U6,U7 and U8. New batches are not recommended while production issues are sorted out.**
+
 PIVIC hardware has been designed for low cost assembled production. It is not recommended to attempt manual assembly of anything other than through-hole components (headers, connectors).
 
 One complete PIVIC set conists of
